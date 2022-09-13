@@ -2,7 +2,7 @@
 
 Classic Hello World program. The purpose was to demonstrate my development environment with Python, Visual Studio Code, and Git/Github
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/gx1iyAywgko)
 
 # Development Environment
 
